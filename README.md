@@ -1,6 +1,6 @@
 ## Hi there 👋 from Geetha
 
-# U want to know me more 
+## About me:
 
 - 🌱 I’m currently learning in  GMIT - Data Analytics
 - 🤔 I’m looking for help with Internship or Work Placement
