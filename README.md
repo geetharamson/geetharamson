@@ -2,7 +2,7 @@
 
 ## About me:
 
-- 🌱 I’m currently learning in  GMIT - Data Analytics
+- 🌱 I’m currently a student in  GMIT - Data Analytics
 - 🤔 I’m looking for help with Internship or Work Placement
 - 📫 How to reach me: geetha.notify@gmail.com
    
